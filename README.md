@@ -1,5 +1,6 @@
 # Mancave-Community-Emotes
 
+![](https://img.shields.io/twitch/status/diemancave?label=diemancave%20on%20twitch)
 ![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
 
 Die Hauptversion ist die jeweils kleinste (meistens 28x28).
